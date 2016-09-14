@@ -1,0 +1,18 @@
+{
+  "name": "nodebotmiku",
+  "version": "2.0.0",
+  "description": "Nodebot using bluetooth, yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ibnutri",
+  "license": "ISC",
+  "dependencies": {
+    "j5-songs": "0.0.9",
+    "johnny-five": "^0.9.39",
+    "keypress": "^0.2.1",
+    "nodebots-interchange": "^1.1.2",
+    "temporal": "^0.5.0"
+  }
+}
